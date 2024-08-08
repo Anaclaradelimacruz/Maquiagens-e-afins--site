@@ -57,7 +57,7 @@ Maquiagens e afins
     <main>
         <section class="gallery">
             <img src="https://via.placeholder.com/300x300.png?text=Maquiagem+1" alt="Maquiagem 1">
-            <img src="https://via.placeholder.com/300x300.png?text=Maquiagem+2" alt="Maquiagem 2">
+        https://images.app.goo.gl/jVgfPfpbYuKQD9Tj8    <img src="https://via.placeholder.com/300x300.png?text=Maquiagem+2" alt="Maquiagem 2">
             <img src="https://via.placeholder.com/300x300.png?text=Maquiagem+3" alt="Maquiagem 3">
             <img src="https://via.placeholder.com/300x300.png?text=Maquiagem+4" alt="Maquiagem 4">
         </section>
